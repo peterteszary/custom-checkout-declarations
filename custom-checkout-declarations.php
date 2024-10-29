@@ -1,9 +1,14 @@
 <?php
 /*
 Plugin Name: Custom Checkout Declarations
+Plugin URI: https://github.com/peterteszary/custom-checkout-declarations
 Description: Lehetővé teszi a pénztári nyilatkozatok, adatátviteli és kártyaregisztrációs hivatkozások szerkesztését.
 Version: 1.0
 Author: Teszáry Péter
+Author URI: https://peterteszary.com
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Requires Plugins: WooCommerce
 */
 
 // Register settings page in WordPress admin
